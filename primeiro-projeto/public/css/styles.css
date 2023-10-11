@@ -2,6 +2,11 @@
     font-family: 'Roboto';
 }
 
-#navbar img {
+.navbar-brand img {
     width: 50px;
+}
+
+#banner-1 {
+    max-width: 480px;
+    height: auto;
 }
